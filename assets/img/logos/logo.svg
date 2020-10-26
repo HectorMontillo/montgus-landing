@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="423.802" height="164.885" viewBox="0 0 423.802 164.885">
+  <defs>
+    <filter id="Exclusión_5" x="0" y="10.904" width="136.466" height="153.981" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ontgus" x="89.802" y="0" width="334" height="136" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Logo" transform="translate(1651.432 -67.352)">
+    <g transform="matrix(1, 0, 0, 1, -1651.43, 67.35)" filter="url(#Exclusión_5)">
+      <path id="Exclusión_5-2" data-name="Exclusión 5" d="M119.058,135.981H50.87V76.186L40,102.818l-4.262.379-18-44.853c-1.069-2.546-2.184-5.43-3.316-8.573.064,4.575.094,7.472.094,8.857V87.945c0,3.708.032,6.831.095,9.283a1.639,1.639,0,0,0,1.232,1.7l5.209,1.658.142,2.369c-3.672-.094-6.938-.142-9.709-.142-2.73,0-6.315.048-10.657.142l-.237-2.369,6.347-1.752a1.565,1.565,0,0,0,1.279-1.468c.063-2.546.095-5.717.095-9.426V50.2c0-3.143-.032-5.788-.095-7.861a1.537,1.537,0,0,0-1.137-1.563L.734,38.924.592,36.509c5.2.125,9.17.189,11.794.189,3.583,0,7.3-.064,11.036-.189L39.951,78.236c.722,1.79,1.376,3.511,1.942,5.116.59-1.5,1.223-3.13,1.989-5.116L50.87,61.089v15.1l7.979-19.548c1.192-2.886,2.339-5.722,3.41-8.431-.1,4.669-.142,7.752-.142,9.426V87.945c0,3.7-.048,6.824-.142,9.283a1.634,1.634,0,0,1-1.184,1.7l-5.447,1.658.237,2.369c3.572-.095,8.082-.142,13.4-.142,5.5,0,10.548.048,15.014.142l-.189-2.369-6.158-1.752a1.566,1.566,0,0,1-1.279-1.468c-.063-2.546-.094-5.717-.094-9.426V50.2c0-3.143.032-5.788.094-7.861a1.538,1.538,0,0,1,1.138-1.563L84,38.924l-.284-2.415c-4.222.126-7.935.189-11.036.189-3.489,0-7.457-.064-11.794-.189L50.87,61.089V0h68.189V135.98Z" transform="translate(8.41 16.9)" fill="#fff"/>
+    </g>
+    <path id="Trazado_46" data-name="Trazado 46" d="M0,0H57.5V132.885H0Z" transform="translate(-1552.077 73)" fill="#fdd835"/>
+    <g transform="matrix(1, 0, 0, 1, -1651.43, 67.35)" filter="url(#ontgus)">
+      <text id="ontgus-2" data-name="ontgus" transform="translate(98.8 98)" fill="#263238" font-size="97" font-family="Constantia-Bold, Constantia" font-weight="700"><tspan x="0" y="0">o</tspan><tspan y="0" fill="#fff">ntgus</tspan></text>
+    </g>
+  </g>
+</svg>
